@@ -268,3 +268,52 @@ body {
 		display: flex;
 	}
 }
+
+/* =============================================================== */
+
+.get-started {
+	background-color: #fcfbfd;
+	padding: 150px 0px 50px 0px;
+}
+.get-started__container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.get-started__content {
+	flex: 0 1 50%;
+}
+.get-started__block-text {
+}
+.block-text {
+}
+.block-text__title {
+}
+.block-text__title_blue {
+}
+.block-text__text {
+}
+.block-text__button {
+}
+.get-started__image {
+	flex: 0 1 50%;
+}
+.get-started__image img {
+	max-width: 100%;
+}
+.get-started__video {
+}
+.video-get-started {
+	flex: 1 1 100%;
+}
+.video-get-started__icon {
+}
+.video-get-started__body {
+}
+.video-get-started__title {
+}
+.video-get-started__text {
+}
+
+/* 2:05:14 */
+
+/* ======================================================== */
